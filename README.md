@@ -1,1 +1,1 @@
-forked from github.com/kuroshades/solchan-beta
+forked from https://github.com/kuroshades/solchan-beta
